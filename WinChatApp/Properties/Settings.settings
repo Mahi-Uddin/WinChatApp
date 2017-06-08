@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WinChatApp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="yourName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">You</Value>
+    </Setting>
+    <Setting Name="friendsName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Friend</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
